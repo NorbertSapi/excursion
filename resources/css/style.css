@@ -1,22 +1,25 @@
-   
+
 body {
     background-color: black;
     text-align: center;
 }
 
+h1, h2, .grey {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+    color: white;
+}
+
 h1 {
     font-size: 50px;
-    font-family: Verdana;
     font-weight: normal;
-    color: white;
-    text-align: center;
 }
 
 h2 {
-    font-family: Verdana;
     font-weight: 300;
     font-size: 42px;
-    color: white;
 }
 
 a {
@@ -27,6 +30,5 @@ a {
 
 .grey {
     color: gray;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
 }
