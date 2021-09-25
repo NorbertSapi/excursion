@@ -28,7 +28,11 @@ a {
     font-weight: bold;
 }
 
-.grey {
+footer {
+    text-align: right;
+}
+
+footer, .grey {
     color: gray;
     font-size: 21px;
 }
